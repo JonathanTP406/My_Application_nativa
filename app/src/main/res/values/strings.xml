@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="title_activity_product_list.xml">activity_product_list.xml</string>
+    <string name="title_activity_car">CarActivity</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+</resources>
